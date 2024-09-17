@@ -49,9 +49,10 @@ The CropAI system utilizes machine learning algorithms to analyze sensor data an
 
 Here are some screenshots of the CropAI system:
 
-![CropAI Dashboard](https://example.com/dashboard.png)
-![CropAI Field Management](https://example.com/field_management.png)
-![CropAI Sensor Data](https://example.com/sensor_data.png)
+![CropAI Dashboard](ss/1.png)
+![CropAI Field Management](ss/2.png)
+![CropAI Sensor Data](ss/3.png)
+![CropAI Sensor Data](ss/4.png)
 
 ## Contributing
 
