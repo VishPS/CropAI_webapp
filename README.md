@@ -65,4 +65,4 @@ CropAI is licensed under the MIT license.
 
 ## Acknowledgments
 
-Special thanks to Madhav Mittal and Durvank Gade for initiating the CropAI project.
+Special thanks to Madhav Mittal(https://github.com/msquarex) and Durvank Gade(https://github.com/DurvankGade) for initiating the CropAI project.
